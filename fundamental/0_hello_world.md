@@ -32,7 +32,7 @@
 
 定义变量并赋值
 ```java
-type para_name = para_value
+// type para_name = para_value
 byte b = 10;
 short s = 5;
 int i = 3;
